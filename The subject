@@ -1,0 +1,3 @@
+Write a program that receives the target value (integer) and the number of measurements (1000+) from the user. 
+Then, the program generates measurements (real number) in such a way as to obtain an approximate, random value for each value, calculated from the formula: approximate value = target value +/- (0.001 ... 0.999). 
+Finally, the program saves the relative and absolute error for each measurement together with the generated measurement to a file with the *.CSV extension
